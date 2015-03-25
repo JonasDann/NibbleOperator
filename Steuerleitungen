@@ -1,0 +1,61 @@
+Befehlsregister
+-> In
+-> Next
+
+Decoder
+-> Out
+
+BIU
+-> In
+-> G
+-> Dir
+-> Out1
+-> Out2
+-> In
+-> G
+-> Out1
+
+Registersatz
+-> In
+-> Out
+-> St1
+-> St2
+-> St3
+
+ALU
+-> ZwR
+-> RegIn
+-> SIn
+-> Sub
+-> Rsh
+-> Inc
+-> AddCF
+-> CF
+-> Op1
+-> Op2
+-> Op3
+-> ZF
+-> Save
+-> Out
+
+Addresswerk
+-> CSIn
+-> CSOut
+-> IPExtIn
+-> IPIn
+-> IPInc
+-> DSIn
+-> DSOut
+-> SIIn
+-> ESIn
+-> ESOut
+-> DIIn
+-> SSIn
+-> BPIn
+-> BPOut
+-> SPExtIn
+-> SPIn
+-> SPInc
+-> SPDec
+-> SPOut
+
