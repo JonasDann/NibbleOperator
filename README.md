@@ -1,5 +1,5 @@
-# nibbleOperator
-A Logisim 4-bit CPU
+# NibbleOperator
+A WIP Logisim 4-bit CPU
 
 Instruction set:
 
